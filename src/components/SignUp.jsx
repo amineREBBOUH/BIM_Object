@@ -9,6 +9,7 @@ import { useState } from "react";
  import img5 from '../assets/images/domain/mep-engineer.3caf7753.svg'
  import img6 from '../assets/images/domain/technician.7fe7b704-1.svg'
  import { Formik, Form, Field, ErrorMessage } from 'formik';
+ import { Link } from "react-router-dom";
  import * as Yup from 'yup';
  const validationSchema = Yup.object().shape({
      email: Yup.string().email('Invalid email address').required('Email is required'),
@@ -173,7 +174,7 @@ import { useState } from "react";
                    </Formik>
                    
                    <div className="has-account">
-                    <a href="/login">Vous avez déjà un compte ? <span>S'enregistrer</span></a>
+                    <Link to="/login">Vous avez déjà un compte ? <span>S'enregistrer</span></Link>
                    </div>
                 </motion.div>
             </div>

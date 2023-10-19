@@ -4,6 +4,8 @@ import logo_Google from '../assets/images/logo-google.png'
 import logo from '../assets/images/logo-black.svg'
 import { Formik, Form, Field, ErrorMessage } from 'formik';
 import * as Yup from 'yup';
+import { Link } from "react-router-dom";
+
 const validationSchema = Yup.object().shape({
     email: Yup.string().email('Invalid email address').required('Email is required'),
     password: Yup.string().required('Password is required'),
@@ -101,7 +103,7 @@ function Login(params) {
                     <a href=""><p>mote de passe oublier ?</p></a>
                    </div>
                    <div className="hasnt-account">
-                    <a href="/SignUp">Vous n'avez pas de compte ? <span>S'inscrire</span></a>
+                    <Link to="SignUp">Vous n'avez pas de compte ? <span>S'inscrire</span></Link>
                    </div>
                 </motion.div>
                 }
