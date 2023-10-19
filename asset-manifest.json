@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BIM_Object/static/css/main.157a144b.css",
-    "main.js": "/BIM_Object/static/js/main.f693ad9c.js",
+    "main.css": "/BIM_Object/static/css/main.c7320d6c.css",
+    "main.js": "/BIM_Object/static/js/main.7e0fe527.js",
     "static/js/787.ac8125b1.chunk.js": "/BIM_Object/static/js/787.ac8125b1.chunk.js",
     "static/media/BimH.png": "/BIM_Object/static/media/BimH.d934b0120de5a140bd83.png",
     "static/media/port1.webp": "/BIM_Object/static/media/port1.9eb1f55fe0c31d71eb48.webp",
@@ -51,12 +51,12 @@
     "static/media/mep-engineer.3caf7753.svg": "/BIM_Object/static/media/mep-engineer.3caf7753.6f3cd319996d8ab13cb41f916bcf1342.svg",
     "static/media/civil-engineer.c53879a7.svg": "/BIM_Object/static/media/civil-engineer.c53879a7.1b0b2b8bc48c2d482d8f0f0e3c7c5880.svg",
     "static/media/bim.5ad879ef.svg": "/BIM_Object/static/media/bim.5ad879ef.3b785e7c30a9fe17f76ec0dec9ccbf95.svg",
-    "main.157a144b.css.map": "/BIM_Object/static/css/main.157a144b.css.map",
-    "main.f693ad9c.js.map": "/BIM_Object/static/js/main.f693ad9c.js.map",
+    "main.c7320d6c.css.map": "/BIM_Object/static/css/main.c7320d6c.css.map",
+    "main.7e0fe527.js.map": "/BIM_Object/static/js/main.7e0fe527.js.map",
     "787.ac8125b1.chunk.js.map": "/BIM_Object/static/js/787.ac8125b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.157a144b.css",
-    "static/js/main.f693ad9c.js"
+    "static/css/main.c7320d6c.css",
+    "static/js/main.7e0fe527.js"
   ]
 }
