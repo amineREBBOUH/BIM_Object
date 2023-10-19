@@ -104,7 +104,7 @@ import { useState } from "react";
                             
                             </span>
                         </div>
-                        <button className="next" type="button">suivant</button>
+                        <button className="nextt" type="button">suivant</button>
                     </fieldset>
                     <fieldset >
                         <div className="containerP">
@@ -165,7 +165,7 @@ import { useState } from "react";
                         </div> */}
                         </div>
                         <div id="btn">
-                        <button className="previous" type="button">previous</button>
+                        <button className="previouss" type="button">previous</button>
                         <button>submit</button>
                         </div>
                         
