@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="81.022" viewBox="0 0 40 81.022">
+  <g id="door" transform="translate(-29 -10.101)">
+    <path id="Path_6216" data-name="Path 6216" d="M8460.639,3550.442l-7.736,3.585,0,59.581,7.653-4.156Z" transform="translate(-8392.917 -3523.868)" fill="#b0ccc2"/>
+    <g id="Doors">
+      <g id="Group_4" data-name="Group 4" transform="translate(10.001 53.359)">
+        <path id="Path_573" data-name="Path 573" d="M8412.232,3534.806l30.012,15.055v59.577l-30.012-14.972Z" transform="translate(-8392.231 -3573.165)" fill="#d5e5e0"/>
+        <path id="Path_574" data-name="Path 574" d="M8438.886,3493.362l-7.453,3.623v60l30,15.161,8-4.143v-59.3Z" transform="translate(-8411.434 -3535.504)" fill="none" stroke="#0c482f" stroke-width="2"/>
+      </g>
+      <path id="Path_576" data-name="Path 576" d="M-12267.937,1555.4l8.582,4.344,3.256-1.667" transform="translate(12313.125 -1498.74)" fill="none" stroke="#0c482f" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
