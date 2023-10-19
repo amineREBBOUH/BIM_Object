@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61.774" height="70.83" viewBox="0 0 61.774 70.83">
+  <g id="Sanitary" transform="translate(-19 -16.558)">
+    <g id="Group_10" data-name="Group 10" transform="translate(20 48.22)">
+      <path id="Path_572" data-name="Path 572" d="M8481.769,3582.029,8452.9,3596.48v7.122l28.868-14.581Z" transform="translate(-8422.9 -3566.731)" fill="#b0ccc2"/>
+      <path id="Path_574" data-name="Path 574" d="M8421.434,3489.487l-30,14.853v8.091l30,15.1,29.774-15.087v-8.328Z" transform="translate(-8391.434 -3489.487)" fill="none" stroke="#0c482f" stroke-width="2"/>
+      <path id="Path_6218" data-name="Path 6218" d="M.894,15.489,30,29.76v7.187L.894,22.363Z" fill="#d5e5e0"/>
+    </g>
+    <g id="Group_11" data-name="Group 11" transform="translate(35 18.176)">
+      <path id="Path_6219" data-name="Path 6219" d="M.062,14.717C0,14.551,1.463,18.5,7.489,18.639s7.475-3.922,7.475-3.922v4.922s-1.829,2.383-7.475,2.316S.1,19.311.062,14.717Z" transform="translate(0 -1)" fill="#b0ccc2"/>
+      <path id="Path_631" data-name="Path 631" d="M25-50.066V-91.213l-15,7.5v7.5" transform="translate(-2.499 91.213)" fill="none" stroke="#0c482f" stroke-width="2"/>
+      <g id="Group_9" data-name="Group 9" transform="translate(0 10.281)">
+        <path id="Path_601" data-name="Path 601" d="M0,7.467V4.178C0,2.009,3.062,0,7.5,0S15,1.789,15,4.178v3.29" transform="translate(15 11.38) rotate(180)" fill="none" stroke="#0c482f" stroke-width="2"/>
+        <path id="Path_629" data-name="Path 629" d="M495,120.662c0-2.389-3.913-4.013-7.5-4.013s-7.5,1.844-7.5,4.013" transform="translate(-480 -116.649)" fill="none" stroke="#0c482f" stroke-width="2"/>
+        <path id="Path_630" data-name="Path 630" d="M15,4.178C15,1.789,11.938,0,7.5,0S0,2.009,0,4.178" transform="translate(15 8.191) rotate(180)" fill="none"/>
+      </g>
+    </g>
+    <g id="Path_6217" data-name="Path 6217" transform="translate(44 60.568)" fill="none">
+      <path d="M4,0C6.209,0,8,1.119,8,2.5S6.209,5,4,5,0,3.881,0,2.5,1.791,0,4,0Z" stroke="none"/>
+      <path d="M 4 2 C 3.035673141479492 2 2.40410852432251 2.29132604598999 2.123466491699219 2.5 C 2.40410852432251 2.70867395401001 3.035673141479492 3 4 3 C 4.964326858520508 3 5.595890998840332 2.70867395401001 5.876533508300781 2.5 C 5.595890998840332 2.29132604598999 4.964326858520508 2 4 2 M 4 0 C 6.209139823913574 0 8 1.119290113449097 8 2.5 C 8 3.880710124969482 6.209139823913574 5 4 5 C 1.790860176086426 5 0 3.880710124969482 0 2.5 C 0 1.119290113449097 1.790860176086426 0 4 0 Z" stroke="none" fill="#0c482f"/>
+    </g>
+  </g>
+</svg>
