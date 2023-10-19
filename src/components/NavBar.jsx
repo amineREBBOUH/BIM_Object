@@ -1,6 +1,6 @@
 import { Fragment ,Component} from "react";
-import logo from '../assets/images/logo-black.svg'
-import logo2 from '../assets/images/logo-b-black-background.svg'
+import logo from '../assets/images/BiMOB.png'
+import logo2 from '../assets/images/BiMOB.png'
 import Login from "./Login";
 import { motion ,AnimatePresence } from "framer-motion";
 import { Link } from "react-router-dom";
@@ -122,7 +122,7 @@ class NavBar extends Component {
                     <div className="content">
                         <Link to="/">
                         <img src={logo} alt="" className="largLogo"/>
-                        <img src={logo2} alt="" className="smalLogo" />
+                        {/* <img src={logo2} alt="" className="smalLogo" /> */}
                         </Link>
                         <div className="container">
                             <div className="search_bar">
@@ -190,6 +190,7 @@ class NavBar extends Component {
                         <i className="fa fa-times"onClick={this.menuMobile}></i>
 
                         </div>
+                        <h3>Bienvenue Chez  BiMOB</h3>
                         <div className="btns">
                         <Link to="/SignUp"> <button className="signup"> Inscription gratuite </button></Link>
                                <Link to="/login"><button className="login" > S'identifier </button></Link>

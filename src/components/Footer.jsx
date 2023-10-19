@@ -1,5 +1,5 @@
 import { Fragment ,Component} from "react";
-import logo from '../assets/images/BIMobject-logo-white.svg'
+import logo from '../assets/images/BiMOB.png'
 class Footer extends Component {
     constructor(props) {
         super(props);
@@ -38,7 +38,7 @@ class Footer extends Component {
                             <li>Investisseurs</li>
                            </ul>
                         </div>
-                        <div className="item">
+                        {/* <div className="item">
                             <label htmlFor="">Légal</label>
                             <ul>
                                 <li>Conditions d'utilisation des services</li>
@@ -46,7 +46,7 @@ class Footer extends Component {
                                 <li>Avis de confidentialité pour les résidents de Californie</li>
                             </ul>
 
-                        </div>
+                        </div> */}
                     </div>
                     <div className="elemnet2">
                         <div className="multylang">
@@ -59,7 +59,7 @@ class Footer extends Component {
                 <div className="sufooter">
                   <div className="sufooter1">
                     <img src={logo} alt="" />
-                    <p>© Copyright 2023. Tous les droits sont réservés</p>
+                    <h2>BiMOB</h2>
                   </div>
                   <div className="sufooter2">
                     <ul>

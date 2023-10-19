@@ -179,9 +179,9 @@ width: 100vw;
   justify-content: space-between;
   align-items: center;
   height: 100%;
-  padding: 10px;
+  padding: 3px;
   box-sizing: border-box;
-  gap: 10px;
+  gap: 0px;
 
 }
 .NavBar .container{
@@ -309,6 +309,15 @@ width: 90%;
   position: relative;
   padding: 5px;
   box-sizing: border-box;
+}
+#menu_bar_mobile .hide img{
+  height: 100px;
+}
+#menu_bar_mobile h3{
+  text-align: center;
+  color: var(--main-color);
+  font-size: 2rem;
+    text-decoration: underline;
 }
  #menu_bar_mobile .hide i{
   position: absolute;
@@ -1582,9 +1591,13 @@ footer .sufooter .sufooter1{
   display: flex;
   gap: 10px;
   text-align: nowrap;
+  align-items: center;
+  cursor: pointer;
 }
 footer .sufooter .sufooter1 img{
   width: 100px;
+  filter:brightness(26.5);
+  fill: white;
 }
 footer .sufooter .sufooter2 ul{
   padding: 0;
@@ -1950,7 +1963,8 @@ input[type="checkbox"]:checked + label {
 /* media qiuery */
 @media only screen and (max-width: 1100px) {
   .NavBar .largLogo{
-    display: none;
+    display: block;
+    width: 87px;
 
   }
   .NavBar .smalLogo{

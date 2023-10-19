@@ -53,7 +53,7 @@ class Header extends Component {
                             </div>
                         </div>
                         <div className="info" >
-                            <h1>Des objets BIM pour  tous.</h1>
+                            <h1>Des BiMOB pour  tous.</h1>
                             <p>Nous vous fournissons les informations et l'inspiration dont vous avez besoin pour concevoir des bâtiments plus rapidement, plus intelligemment et plus verts.</p>
                             <button>inscription gratuit</button>
                             <a href="">publier your object</a>
