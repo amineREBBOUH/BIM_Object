@@ -38,7 +38,7 @@ import { useState } from "react";
             <div id="Inscription" className="formes">
                
                 <div className="top">
-                <a href="/"><img src={logo} alt="" /></a>
+                <Link to="/"><img src={logo} alt="" /></Link>
                 </div>
                 <motion.div className="container"
                     initial={{ opacity: 0 }}

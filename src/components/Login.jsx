@@ -28,7 +28,7 @@ function Login(params) {
         <Fragment>
             <div id="login" className="formes">
             <div className="top">
-                <a href="/"><img src={logo} alt="" /></a>
+                <Link to="/"><img src={logo} alt="" /></Link>
             </div>
             <AnimatePresence>
 
