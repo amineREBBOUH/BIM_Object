@@ -12,6 +12,7 @@ import SignUp from './components/SignUp';
 import PathBar from './components/PathBar';
 import Product from './components/Product';
 import Categories from './components/Categories';
+import { HashRouter } from "react-router-dom";
 
 function App() {
   const [check1,setCheck1]=useState(false);
@@ -23,7 +24,8 @@ function App() {
   }
 
   return (
-    <BrowserRouter basename="/BIM_Object">
+    <HashRouter >
+
 
           
         <Routes> 
@@ -34,7 +36,7 @@ function App() {
                 <Route exact path='/SignUp' element={<AuthLayout><SignUp/></AuthLayout>}></Route>
 
         </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
