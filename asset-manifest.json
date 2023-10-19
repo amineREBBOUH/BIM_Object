@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BIM_Object/static/css/main.c7320d6c.css",
-    "main.js": "/BIM_Object/static/js/main.e70c27d0.js",
+    "main.css": "/BIM_Object/static/css/main.6511d404.css",
+    "main.js": "/BIM_Object/static/js/main.9ef6fecb.js",
     "static/js/787.ac8125b1.chunk.js": "/BIM_Object/static/js/787.ac8125b1.chunk.js",
     "static/media/BimH.png": "/BIM_Object/static/media/BimH.d934b0120de5a140bd83.png",
     "static/media/port1.webp": "/BIM_Object/static/media/port1.9eb1f55fe0c31d71eb48.webp",
@@ -10,6 +10,7 @@
     "static/media/mater.webp": "/BIM_Object/static/media/mater.74a08dc1239c1c4099f5.webp",
     "static/media/BimH2.png": "/BIM_Object/static/media/BimH2.8c7d81e65a7d1db61f91.png",
     "static/media/BimH3.png": "/BIM_Object/static/media/BimH3.5a7fe9e3ace8770b5a7f.png",
+    "static/media/BiMOB.png": "/BIM_Object/static/media/BiMOB.ba331601e9594e091445.png",
     "static/media/BIMobject.mp4": "/BIM_Object/static/media/BIMobject.c12e445ae5b4dc8321f0.mp4",
     "static/media/ls.webp": "/BIM_Object/static/media/ls.34df64b5d0ff3d6a3095.webp",
     "static/media/collection.webp": "/BIM_Object/static/media/collection.de5e5a3c68cbe2976b70.webp",
@@ -28,7 +29,6 @@
     "static/media/newProduit.webp": "/BIM_Object/static/media/newProduit.4b602ce0c37e8fe02470.webp",
     "static/media/icons.webp": "/BIM_Object/static/media/icons.78441b1b7676adb0cd35.webp",
     "static/media/roca.webp": "/BIM_Object/static/media/roca.95d013e620141909816e.webp",
-    "static/media/BIMobject-logo-white.svg": "/BIM_Object/static/media/BIMobject-logo-white.b6b7111ac6bb579a648f5e08ae1e4ff9.svg",
     "static/media/karl.webp": "/BIM_Object/static/media/karl.684f5f0e1a8284f79a99.webp",
     "static/media/logo-black.svg": "/BIM_Object/static/media/logo-black.0b384dd6496a80aa1bbdbd876197badd.svg",
     "static/media/sanitaire.webp": "/BIM_Object/static/media/sanitaire.b065ed2c4afea8fd9b85.webp",
@@ -44,19 +44,18 @@
     "static/media/technician.7fe7b704-1.svg": "/BIM_Object/static/media/technician.7fe7b704-1.d6d7f742c44d0786fac7f8373aac0f3a.svg",
     "static/media/doors.svg": "/BIM_Object/static/media/doors.c16902a7eabd2aa269410d22fbff6372.svg",
     "static/media/window.svg": "/BIM_Object/static/media/window.69410f85978bc338b5c1eaa9b748f870.svg",
-    "static/media/logo-b-black-background.svg": "/BIM_Object/static/media/logo-b-black-background.eaed00977526e1ec757167e0dd253f4a.svg",
     "static/media/interior-designer.41236965.svg": "/BIM_Object/static/media/interior-designer.41236965.7ccd3c6fcaa91f4fc246e8e3295baa08.svg",
     "static/media/sketchup.svg": "/BIM_Object/static/media/sketchup.31f4d33ad87554aeab6a4dddd80ed5d5.svg",
     "static/media/architect.318713af.svg": "/BIM_Object/static/media/architect.318713af.520f43dd36644a3883c36a8d08eb837f.svg",
     "static/media/mep-engineer.3caf7753.svg": "/BIM_Object/static/media/mep-engineer.3caf7753.6f3cd319996d8ab13cb41f916bcf1342.svg",
     "static/media/civil-engineer.c53879a7.svg": "/BIM_Object/static/media/civil-engineer.c53879a7.1b0b2b8bc48c2d482d8f0f0e3c7c5880.svg",
     "static/media/bim.5ad879ef.svg": "/BIM_Object/static/media/bim.5ad879ef.3b785e7c30a9fe17f76ec0dec9ccbf95.svg",
-    "main.c7320d6c.css.map": "/BIM_Object/static/css/main.c7320d6c.css.map",
-    "main.e70c27d0.js.map": "/BIM_Object/static/js/main.e70c27d0.js.map",
+    "main.6511d404.css.map": "/BIM_Object/static/css/main.6511d404.css.map",
+    "main.9ef6fecb.js.map": "/BIM_Object/static/js/main.9ef6fecb.js.map",
     "787.ac8125b1.chunk.js.map": "/BIM_Object/static/js/787.ac8125b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7320d6c.css",
-    "static/js/main.e70c27d0.js"
+    "static/css/main.6511d404.css",
+    "static/js/main.9ef6fecb.js"
   ]
 }
