@@ -103,7 +103,7 @@ function Login(params) {
                     <a href=""><p>mote de passe oublier ?</p></a>
                    </div>
                    <div className="hasnt-account">
-                    <Link to="SignUp">Vous n'avez pas de compte ? <span>S'inscrire</span></Link>
+                    <Link to="/SignUp">Vous n'avez pas de compte ? <span>S'inscrire</span></Link>
                    </div>
                 </motion.div>
                 }
