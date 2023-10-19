@@ -23,17 +23,18 @@ function App() {
   }
 
   return (
-    <Router> 
+    <h1>hello</h1>
+    // <Router> 
           
-        <Routes> 
-                <Route exact path='/' element={<MainLayout>< Home initial={initial} /></MainLayout>}></Route> 
-                <Route exact path='/login' element={<AuthLayout><Login/></AuthLayout>}></Route>
-                <Route exact path='/categories/:id' element={<MainLayout><PathBar/><Categories/></MainLayout>}></Route>
-                <Route exact path='/Products/door' element={<MainLayout><PathBar/><Product/></MainLayout>}></Route>
-                <Route exact path='/SignUp' element={<AuthLayout><SignUp/></AuthLayout>}></Route>
+    //     <Routes> 
+    //             <Route exact path='/' element={<MainLayout>< Home initial={initial} /></MainLayout>}></Route> 
+    //             <Route exact path='/login' element={<AuthLayout><Login/></AuthLayout>}></Route>
+    //             <Route exact path='/categories/:id' element={<MainLayout><PathBar/><Categories/></MainLayout>}></Route>
+    //             <Route exact path='/Products/door' element={<MainLayout><PathBar/><Product/></MainLayout>}></Route>
+    //             <Route exact path='/SignUp' element={<AuthLayout><SignUp/></AuthLayout>}></Route>
 
-        </Routes>
-    </Router> 
+    //     </Routes>
+    // </Router> 
   );
 }
 
