@@ -32,9 +32,9 @@ const  MainLayout=({children})=>{
     setCheck2(false)  
   }
     return ( 
-        <div className="App"> 
-                <TopBar  toggle1={toggle1} toggle2={toggle2} check1={check1}check2={check2}/>
-                <NavBar initial={initial}/>
+        <div className="App" onClick={()=>initial()}> 
+                <TopBar  toggle1={toggle1} toggle2={toggle2} check1={check1}check2={check2} />
+                <NavBar />
                 {/* <Notification initial={initial}/> */}
                 {children}
                 <Footer/> 

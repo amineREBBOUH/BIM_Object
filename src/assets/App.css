@@ -540,7 +540,7 @@ font-weight: 600;
 #product .information .download{
   position: relative;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 #product .information .download button{
   position: relative;

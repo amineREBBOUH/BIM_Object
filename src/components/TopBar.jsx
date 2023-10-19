@@ -961,6 +961,7 @@ class TopBar extends Component {
     hide(){
         this.setState({show:false})
     }
+    
     render() { 
         return ( 
             <Fragment>
@@ -970,7 +971,7 @@ class TopBar extends Component {
                     <div className="content">
                         <p>Définissez votre emplacement et votre langue pour donner la priorité aux informations localisées.</p>
                            <div className="contentBtton">
-                                <div className="dropdown-with-search-container">
+                                <div className="dropdown-with-search-container" onClick={(e)=>e.stopPropagation()}>
                                         <button>
                                             <div className="Title">{this.state.title}</div>
                                             <div className="btnIcon" onClick={this.props.toggle1}><i className="fa-solid fa-chevron-down"></i></div>
@@ -993,7 +994,7 @@ class TopBar extends Component {
                                          </div>
                                          }
                                 </div>
-                                <div className="dropdown-with-search-container">
+                                <div className="dropdown-with-search-container"onClick={(e)=>e.stopPropagation()}>
                                         <button>
                                             <div className="Title">{this.state.language}</div>
                                             <div className="btnIcon" onClick={this.props.toggle2}><i className="fa-solid fa-chevron-down"></i></div>
