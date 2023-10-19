@@ -8,7 +8,7 @@ class Categories extends Component {
     render() { 
         return (  
             <Fragment>
-                Categories
+                <h1>This page In Developement</h1>
             </Fragment>
         );
     }
