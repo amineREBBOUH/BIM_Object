@@ -1534,6 +1534,7 @@ display: flex;
 gap: 0px;
 justify-content: space-between;
 flex-wrap: wrap;
+width: 70%;
 
 }
 footer .container .elemnet1 .item{
