@@ -23,7 +23,7 @@ function App() {
   }
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/BIM_Object">
 
           
         <Routes> 
