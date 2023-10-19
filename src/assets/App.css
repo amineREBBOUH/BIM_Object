@@ -179,9 +179,9 @@ width: 100vw;
   justify-content: space-between;
   align-items: center;
   height: 100%;
-  padding: 30px;
+  padding: 10px;
   box-sizing: border-box;
-  gap: 30px;
+  gap: 10px;
 
 }
 .NavBar .container{
