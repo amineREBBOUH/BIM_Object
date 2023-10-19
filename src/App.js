@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { BrowserRouter as Router, Routes, Route ,Link} from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route ,Link, BrowserRouter} from "react-router-dom";
 
 import logo from './logo.svg';
 import './assets/App.css';
@@ -23,18 +23,18 @@ function App() {
   }
 
   return (
-    <h1>hello</h1>
-    // <Router> 
-          
-    //     <Routes> 
-    //             <Route exact path='/' element={<MainLayout>< Home initial={initial} /></MainLayout>}></Route> 
-    //             <Route exact path='/login' element={<AuthLayout><Login/></AuthLayout>}></Route>
-    //             <Route exact path='/categories/:id' element={<MainLayout><PathBar/><Categories/></MainLayout>}></Route>
-    //             <Route exact path='/Products/door' element={<MainLayout><PathBar/><Product/></MainLayout>}></Route>
-    //             <Route exact path='/SignUp' element={<AuthLayout><SignUp/></AuthLayout>}></Route>
+    <BrowserRouter>
 
-    //     </Routes>
-    // </Router> 
+          
+        <Routes> 
+                <Route exact path='/' element={<MainLayout>< Home initial={initial} /></MainLayout>}></Route> 
+                <Route exact path='/login' element={<AuthLayout><Login/></AuthLayout>}></Route>
+                <Route exact path='/categories/:id' element={<MainLayout><PathBar/><Categories/></MainLayout>}></Route>
+                <Route exact path='/Products/door' element={<MainLayout><PathBar/><Product/></MainLayout>}></Route>
+                <Route exact path='/SignUp' element={<AuthLayout><SignUp/></AuthLayout>}></Route>
+
+        </Routes>
+    </BrowserRouter>
   );
 }
 
