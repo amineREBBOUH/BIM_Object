@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BIM_Object/static/css/main.84fbf493.css",
-    "main.js": "/BIM_Object/static/js/main.9ef6fecb.js",
+    "main.css": "/BIM_Object/static/css/main.495492a6.css",
+    "main.js": "/BIM_Object/static/js/main.0765bd49.js",
     "static/js/787.ac8125b1.chunk.js": "/BIM_Object/static/js/787.ac8125b1.chunk.js",
     "static/media/BimH.png": "/BIM_Object/static/media/BimH.d934b0120de5a140bd83.png",
     "static/media/port1.webp": "/BIM_Object/static/media/port1.9eb1f55fe0c31d71eb48.webp",
@@ -30,7 +30,6 @@
     "static/media/icons.webp": "/BIM_Object/static/media/icons.78441b1b7676adb0cd35.webp",
     "static/media/roca.webp": "/BIM_Object/static/media/roca.95d013e620141909816e.webp",
     "static/media/karl.webp": "/BIM_Object/static/media/karl.684f5f0e1a8284f79a99.webp",
-    "static/media/logo-black.svg": "/BIM_Object/static/media/logo-black.0b384dd6496a80aa1bbdbd876197badd.svg",
     "static/media/sanitaire.webp": "/BIM_Object/static/media/sanitaire.b065ed2c4afea8fd9b85.webp",
     "static/media/revit.svg": "/BIM_Object/static/media/revit.b97fd68cebe896050f3bc8d33f6d0f4b.svg",
     "static/media/plant.webp": "/BIM_Object/static/media/plant.6bfc1d9e7e2cb01dc452.webp",
@@ -50,12 +49,12 @@
     "static/media/mep-engineer.3caf7753.svg": "/BIM_Object/static/media/mep-engineer.3caf7753.6f3cd319996d8ab13cb41f916bcf1342.svg",
     "static/media/civil-engineer.c53879a7.svg": "/BIM_Object/static/media/civil-engineer.c53879a7.1b0b2b8bc48c2d482d8f0f0e3c7c5880.svg",
     "static/media/bim.5ad879ef.svg": "/BIM_Object/static/media/bim.5ad879ef.3b785e7c30a9fe17f76ec0dec9ccbf95.svg",
-    "main.84fbf493.css.map": "/BIM_Object/static/css/main.84fbf493.css.map",
-    "main.9ef6fecb.js.map": "/BIM_Object/static/js/main.9ef6fecb.js.map",
+    "main.495492a6.css.map": "/BIM_Object/static/css/main.495492a6.css.map",
+    "main.0765bd49.js.map": "/BIM_Object/static/js/main.0765bd49.js.map",
     "787.ac8125b1.chunk.js.map": "/BIM_Object/static/js/787.ac8125b1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84fbf493.css",
-    "static/js/main.9ef6fecb.js"
+    "static/css/main.495492a6.css",
+    "static/js/main.0765bd49.js"
   ]
 }
