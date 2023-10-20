@@ -1,7 +1,7 @@
 import { motion,AnimatePresence } from "framer-motion"
 import { Fragment, useEffect, useState } from "react";
 import logo_Google from '../assets/images/logo-google.png'
-import logo from '../assets/images/logo-black.svg'
+import logo from '../assets/images/BiMOB.png'
 import { Formik, Form, Field, ErrorMessage } from 'formik';
 import * as Yup from 'yup';
 import { Link } from "react-router-dom";
@@ -28,7 +28,7 @@ function Login(params) {
         <Fragment>
             <div id="login" className="formes">
             <div className="top">
-                <Link to="/"><img src={logo} alt="" /></Link>
+                <Link to="/"><h2>BIMOB</h2></Link>
             </div>
             <AnimatePresence>
 

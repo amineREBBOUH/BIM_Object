@@ -1635,6 +1635,12 @@ footer .sufooter .sufooter2 ul li{
   margin: 5px;
   width: 190px;
 }
+.formes .top a{
+  margin-left: 15px;
+  text-decoration: none;
+  color: var(--main-color);
+  cursor: pointer;
+}
 .formes{
   padding: 60px 0;
   overflow: scroll;

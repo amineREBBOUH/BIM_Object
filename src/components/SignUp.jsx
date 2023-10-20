@@ -1,7 +1,7 @@
 import { Fragment ,Component} from "react";
 import { useState } from "react";
  import { motion } from "framer-motion";
- import logo from '../assets/images/logo-black.svg'
+ import logo from '../assets/images/BiMOB.png'
  import img1 from '../assets/images/domain/architect.318713af.svg'
  import img2 from '../assets/images/domain/bim.5ad879ef.svg'
  import img3 from '../assets/images/domain/civil-engineer.c53879a7.svg'
@@ -146,7 +146,7 @@ class SignUp extends Component {
  <div id="Inscription" className="formes">
                
                <div className="top">
-               <Link to="/"><img src={logo} alt="" /></Link>
+               <Link to="/"><h2>BIMOB</h2></Link>
                </div>
                <motion.div className="container"
                    initial={{ opacity: 0 }}
